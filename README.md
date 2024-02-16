@@ -1,8 +1,4 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobniinja&show_icons=true&theme=tokyonight)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
